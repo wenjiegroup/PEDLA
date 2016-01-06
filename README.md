@@ -6,7 +6,7 @@ Perl v5.14.2
 
 The core algorithm of PEDLA is written in MATLAB, and some helpful scripts are written in Perl.
 
-Due to the size limitation of the uploaded file, here we provide only codes of PEDLA and do not provide any data. To run PEDLA without error, first download the PEDLA with codes and example data from the website https://mega.nz/#!rEI0nLCT (these codes are the same as codes here).
+Due to the size limitation of the uploaded file, here we provide only codes of PEDLA and do not provide any data. To run PEDLA without error, first download the PEDLA with codes and example data from the website https://mega.nz/#!rEI0nLCT and the key is !Z686AXGwg_nTtHcYbdTgQluctAHvIqZNKhCan642aD8 (these codes are the same as codes here).
 
 ------------------------------------------------------------
 ------------------------------------------------------------
